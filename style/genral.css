@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding-bottom: 1000px;
+    padding-top: 80px;
+    padding-left: 100px;
+    background: rgba(241, 239, 239, 0.696);
+}
+
+p{
+    margin: 0px;
+    font-family: roboto,Arial, Helvetica, sans-serif ;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
